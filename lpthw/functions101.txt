@@ -1,0 +1,10 @@
+start with def
+function name contains only characters and _
+open parenthesis( right after the func name
+arguments go into the () separated by , commas
+each argument is unique
+): colon goes straight after the closing parenthesis
+        all lines of the function have to be indented
+after the functions end write without an indent!
+
+To 'run,' 'call,' or 'use' a function all mean the same thing.
